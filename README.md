@@ -1,2 +1,2 @@
 # personalSite
-This is my portfolio site.
+This is my mock portfolio site.
